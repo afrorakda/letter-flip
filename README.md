@@ -1,7 +1,15 @@
 # Letter Flip
-Flip between Uppercase and Lowercase instantly. A simple tool for text casing.
+Transform your text: Upper, Lower, Capitalized. One-click formatting.
 
-### 🛠 Fridge Combo Standard
-* **Instant Case Conversion**: Transform your text with one click.
-* **Minimalist UI**: White background, black buttons, 15px rounded corners.
-* **Privacy First**: No login, No tracking, No ads.
+## Philosophy
+* **1 Tool, 1 Action.**
+* **No Login / No Ads / No Tracking**
+* **Browser-only Privacy**
+
+## How to Use
+1. Paste your text.
+2. Flip the case to your desired format.
+
+---
+No login / No tracking / No ads / Browser only Privacy Policy  
+**afrorakda © 2026**
